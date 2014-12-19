@@ -14,7 +14,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    height="100%"
-   viewBox="0 0 541.95729 412.43426"
+   viewBox="0 0 617.71871 503.24847"
    width="100%"
    sodipodi:docname="index.svg">
   <defs
@@ -167,7 +167,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="358.15337"
+     inkscape:cx="210.16603"
      inkscape:cy="217.26732"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -185,11 +185,11 @@
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="0,1"
-       position="180.88801,258.89858"
+       position="218.26365,258.89858"
        id="guide3755" />
     <sodipodi:guide
        orientation="0,1"
-       position="442.51752,3.3299893"
+       position="479.89316,3.3299862"
        id="guide3757" />
   </sodipodi:namedview>
   <metadata
@@ -208,7 +208,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-67.609524,-258.3898)">
+     transform="translate(-30.233879,-167.57559)">
     <path
        style="fill:none;stroke:#000000;stroke-width:6.65999985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 82.857143,666.6479 139.999997,0 0,-254.28572 60.96702,-105.59797 116.17584,0 56.69736,105.16126 0,255.56859 135.07785,0"
@@ -218,7 +218,7 @@
   </g>
   <g
      id="g3406"
-     transform="matrix(0.37620565,0,0,0.37620565,-43.203649,116.90514)">
+     transform="matrix(0.37620565,0,0,0.37620565,-43.203649,185.49599)">
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -237,7 +237,7 @@
      y="0"
      xlink:href="#g3406"
      id="use4245"
-     transform="matrix(0.80476407,0.5935948,-0.5935948,0.80476407,192.6034,-216.57673)"
+     transform="matrix(0.80476407,0.5935948,-0.5935948,0.80476407,270.69423,-180.96197)"
      width="515.57806"
      height="367.38986" />
   <use
@@ -245,7 +245,7 @@
      y="0"
      xlink:href="#use4245"
      id="use4247"
-     transform="matrix(-1,0,0,1,544.94033,-2.174279e-7)"
+     transform="matrix(-1,0,0,1,619.69163,-1.5845728e-7)"
      width="515.57806"
      height="367.38986" />
   <use
@@ -253,7 +253,31 @@
      y="0"
      xlink:href="#g3406"
      id="use4249"
-     transform="matrix(-1,0,0,1,541.95729,-2.174279e-7)"
+     transform="matrix(-1,0,0,1,617.71874,-0.90862816)"
      width="515.57806"
      height="367.38986" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use4247"
+     id="use4251"
+     transform="matrix(0.5,-0.8660254,0.8660254,0.5,-68.578155,430.48498)"
+     width="541.95728"
+     height="412.43427" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use4251"
+     id="use4253"
+     transform="translate(-193.94929,334.3605)"
+     width="541.95728"
+     height="412.43427" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use4253"
+     id="use4255"
+     transform="matrix(-1,0,0,1,610.0975,-3.0304582)"
+     width="541.95728"
+     height="412.43427" />
 </svg>
